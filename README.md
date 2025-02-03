@@ -1,7 +1,8 @@
 # Cinemx
 A complete React js movie application.
 
-
+# Check out the website here
+https://cinemx-flax.vercel.app/ 
 
 ## Project Description
 
